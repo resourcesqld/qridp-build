@@ -1,0 +1,1 @@
+import{j as e,F as n,a,L as r}from"./index.108e5555.js";function s(){return e(n,{children:[a("span",{children:"Hello there!"}),a("br",{}),a(r,{to:"/admin",children:"Go to admin"})]})}export{s as default};
