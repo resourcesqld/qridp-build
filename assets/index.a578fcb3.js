@@ -1,0 +1,1 @@
+import{j as t,F as o,a as e,L as r}from"./index.3b0cbcea.js";function s(){return t(o,{children:[e("span",{children:"Hello there!"}),e("br",{}),e(r,{to:"/initiatives",children:"Go to progress tracker"}),e("br",{}),e(r,{to:"/tree",children:"Go to decision tree"})]})}export{s as default};
