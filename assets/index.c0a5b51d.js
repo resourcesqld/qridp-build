@@ -1,1 +1,0 @@
-import{j as r,F as t,a as e,L as n}from"./index.f48d77b6.js";function s(){return r(t,{children:[e("span",{children:"Hello there!"}),e("br",{}),e(n,{to:"/tree",children:"Go to decision tree"})]})}export{s as default};
